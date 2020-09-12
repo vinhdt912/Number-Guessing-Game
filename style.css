@@ -1,0 +1,20 @@
+#wrongAnswer {
+  background-color: red;
+
+}
+
+#correctAnswer {
+  background-color: greenyellow;
+
+}
+
+#alert{
+  color: red;
+}
+h2 {
+  background-color: yellow;
+}
+
+body {
+  text-align: center;
+}
